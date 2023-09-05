@@ -1,5 +1,7 @@
 # Human Code
 
+ESERCIZIO GRUPPO 1
+
 1. Fare la spesa seguendo una lista
 Fatti mandare dalla mamma a prendere il latte
 Nel frigo si inizia a sentire l’eco, perciò è ora di fare rifornimenti!
