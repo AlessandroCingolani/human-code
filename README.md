@@ -1,1 +1,1 @@
-# Huma Code
+# Human Code
